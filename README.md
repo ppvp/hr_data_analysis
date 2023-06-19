@@ -1,3 +1,21 @@
+# HR Analysis [Private Dataset]
+
+## Project Summary
+
+
+## Methods & Technology
+* **Language**: SQL
+* **Data Format**: CSV
+* **Data Processing & Analysis**: SQL
+* **Data Visualization**: Tableau & PowerBI
+
+## About Data
+
+
+
+## Insights
+
+Below are screenshots of the two dashboards: (see attached files for interactive versions)
 
 PowerBI Dashboard
 ![1](https://github.com/ppvp/hr_data_analysis/assets/41266016/4e56410e-ab62-43b7-acfb-da1cfa9504f9)
