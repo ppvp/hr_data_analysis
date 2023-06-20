@@ -2,6 +2,7 @@
 
 ## Project Summary
 
+This project involved utilizing SQL, Tableau, and PowerBI to conduct an in-depth analysis of employee data. The aim was to uncover valuable insights regarding gender distribution, tenure, length of service, and educational backgrounds within the organization. The findings were presented through two interactive dashboards.
 
 ## Methods & Technology
 * **Language**: SQL
@@ -10,7 +11,7 @@
 * **Data Visualization**: Tableau & PowerBI
 
 ## About Data
-
+Private dataset, consisting of 50,000 rows and 14 columns of employee data. 
 
 
 ## Insights
