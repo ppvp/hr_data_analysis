@@ -1,4 +1,4 @@
-# HR Analysis [Private Dataset]
+# HR Analysis
 
 ## Project Summary
 
